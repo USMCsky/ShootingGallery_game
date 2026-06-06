@@ -1,2 +1,2 @@
 # ShootingGallery
-Simple Target Shooter built in Monogame
+Simple Target Shooter built in Monogame. Practice your mouse skills.
