@@ -42,13 +42,6 @@ A simple target shooter game built with **MonoGame**. Practice your mouse skills
 - **Language:** C#
 - **Platform:** Multi-platform
 
-### Building from Source
-[Add build instructions if applicable]
-
-## 📄 License
-
-[Add license information]
-
 ## 👤 Author
 
 Created by [USMCsky](https://github.com/USMCsky)
